@@ -4,6 +4,11 @@
 All notable changes to this project will be documented in this file starting from version **v4.0.0**.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 9.0.3 - 2023-09-01
+
+- refactor: reduce library size by using lodash specific dependencies #
+- security: updating semver to 7.5.4 to resolve CVE-2022-25883
+
 ## 9.0.1 - 2023-07-05
 
 - fix(stubs): allow decode method to be stubbed
